@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+venv/
+*.pyc
+*.xlsx
+*.html
+__pycache__/
+*.ini
+*.env
+DS_Store
